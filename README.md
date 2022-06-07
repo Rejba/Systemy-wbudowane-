@@ -41,15 +41,4 @@ if (distance >= 10 ss distance < 20) (
 miganie = 2;
 if (distance >=
 0 ss distance
-< 10) l
-maganle
-1;
-Ladowanie zakonczone
-Szk1c uzywa 3614 bajtów (118) pamieci programu, Maksimum to 32256 bajtéw.
-Zmienne globalne udywaja 206 bajtów (10%) pamieci dynamicanej, pozostawiajac 1842 bajtów dla zmiennych lokalnych.
-Maksimum
-Ultrasonic Sensor H...
-00 sketch mar29a | Ar...
-o© Blink | Arduino 1.8.16
-00 COM4
-Arduino
+< 10) 
